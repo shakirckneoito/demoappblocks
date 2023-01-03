@@ -1,0 +1,8 @@
+{
+  "name": "demoappblocks",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/shakirckneoito/demoappblocks",
+    "ssh": "git@github.com:shakirckneoito/demoappblocks.git"
+  }
+}
